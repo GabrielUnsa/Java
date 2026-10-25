@@ -4,17 +4,21 @@ Colección de proyectos académicos en Java sobre concurrencia, simulación de p
 
 Estos ejercicios prácticos fueron realizados durante el cursado de diversas materias mientras estudiaba la **Licenciatura en Análisis de Sistemas (Plan 2010)** de la **Universidad Nacional de Salta**.
 
-**Materia:** ______________________________
+**Materia: Sistemas Operativos**
 
 ## Contenido
 
-- [Estructura](#estructura)
-- [Filósofos hambrientos](#filósofos-hambrientos)
-- [Visualizador de procesos](#visualizador-de-procesos)
-- [Buscador de tweets](#buscador-de-tweets)
-- [Compilación y ejecución](#compilación-y-ejecución)
-- [Estado y compatibilidad](#estado-y-compatibilidad)
-- [Licencia](#licencia)
+- [Java — Sistemas operativos y búsqueda de tweets](#java--sistemas-operativos-y-búsqueda-de-tweets)
+  - [Contenido](#contenido)
+  - [Estructura](#estructura)
+  - [Filósofos hambrientos](#filósofos-hambrientos)
+  - [Visualizador de procesos](#visualizador-de-procesos)
+  - [Buscador de tweets](#buscador-de-tweets)
+  - [Compilación y ejecución](#compilación-y-ejecución)
+    - [Filósofos](#filósofos)
+    - [Visualizador](#visualizador)
+  - [Estado y compatibilidad](#estado-y-compatibilidad)
+  - [Licencia](#licencia)
 
 ## Estructura
 
